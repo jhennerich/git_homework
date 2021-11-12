@@ -33,4 +33,4 @@ puts "Hello again!"
 To see what version of Ruby you have installed type `ruby -v` from your Terminal command line.
 
 
-[⚡️ TURN THIS SENTENCE INTO A LINK TO YOUR GIST ⚡️](https://gist.github.com/jhennnerich/2c5557c44bf188c1f2567399f8d613c2#file-john_hennerich_mod_0_plan-md "John's Mod 0 Plan")
+[⚡️ TURN THIS SENTENCE INTO A LINK TO YOUR GIST ⚡️](https://gist.github.com/jhennerich/2c5557c44bf188c1f2567399f8d613c2#file-john_hennerich_mod_0_plan-md "John's Mod 0 Plan")
